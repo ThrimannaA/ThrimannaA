@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuji Thrimanna</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thrimannaa&label=Profile%20views&color=0e75b6&style=flat" alt="thrimannaa" /> </p>
 
 - 🌱 I’m currently learning **Java**
