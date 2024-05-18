@@ -6,7 +6,7 @@
 ### About Myself
 ---
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **phython**
 
 - 📫 How to reach me **thrimanna2000@gmail.com**
 
