@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thrimannaa&label=Profile%20views&color=0e75b6&style=flat" alt="thrimannaa" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and Phython**
+- 
+- 💕I'm interested in data analytics, data mining, artificial intelligence and machine learning
 
 - 📫 How to reach me **thrimanna2000@gmail.com**
 
