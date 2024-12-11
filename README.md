@@ -7,6 +7,8 @@
   
 - 💕I'm interested in data analytics, data analysis, data mining, artificial intelligence, machine learning and deep learning
 
+- 🚀As an Aspiring Data Engineer 🌟, a Driven Data Analyst 📊, and a Passionate Machine Learning Enthusiast 🤖,I am dedicated to shaping the future with innovative data solutions and AI-driven insights. 
+
 - 📫 How to reach me **thrimanna2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
